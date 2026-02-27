@@ -2,7 +2,7 @@
 --
 
 <details>
-  <summary>モード①(ゆきむいて、ホイ！)</summary>
+  <summary>ゆきむいて、ホイ！</summary>
   
   説明
   --
