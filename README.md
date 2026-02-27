@@ -33,14 +33,13 @@
   2番(防御アイテム)：相手の雪玉に当たった場合、そのダメージを相手にそのまま返す。<br>
   3番(防御アイテム)：自分が不利な時にターンを持ってくることができる。<br>
 
-  ゲーム再生URL
+  プレイ動画
   --
   [![ゆきむいて、ホイ！](https://img.youtube.com/vi/1XaAdYmfsRk/maxresdefault.jpg)](https://www.youtube.com/watch?v=1XaAdYmfsRk)
   
   *画像をクリックするとリンクに繋がります。<br>
-  
   *エラーが生じた場合、以下のリンク先でお願い致します。<br>
-  https://youtu.be/1XaAdYmfsRk
+  <b>https://youtu.be/1XaAdYmfsRk</b>
 </details>
 
 <details>
