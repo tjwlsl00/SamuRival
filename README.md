@@ -44,12 +44,12 @@
 </details>
 
 <details>
-  <summary>モード②()</summary>
+  <summary>モード②</summary>
 </details>
 
 
 <details>
-  <summary>モード③()</summary>
+  <summary>モード③</summary>
 </details>
 
 
