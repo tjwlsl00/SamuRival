@@ -3,7 +3,6 @@
 
 <details>
   <summary>モード①(ゆきむいて、ホイ！)</summary>
-  <div markdown="1">
   **説明**
   
   赤と青は幼い頃から仲の良い友達です。 勝負が好きだった赤は雪が降ったある日青に雪合戦を申し込むようになるが.. 赤と青の息詰まる雪合戦！ 相手の攻撃、回避経路を予測し、相手より先に雪合戦で勝ってみてください！
@@ -41,20 +40,15 @@
 
 *エラーが生じた場合、以下のリンク先でお願い致します。<br>
 https://youtu.be/1XaAdYmfsRk
-  </div>
 </details>
 
 <details>
   <summary>モード②()</summary>
-  <div markdown="1">
-  </div>
 </details>
 
 
 <details>
-  <summary>モード③(ゆきむいて、ホイ！)</summary>
-  <div markdown="1">
-  </div>
+  <summary>モード③()</summary>
 </details>
 
 
