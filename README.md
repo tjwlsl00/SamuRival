@@ -5,23 +5,8 @@
   <summary>モード①(ゆきむいて、ホイ！)</summary>
   <div markdown="1">
   赤と青は幼い頃から仲の良い友達です。 勝負が好きだった赤は雪が降ったある日青に雪合戦を申し込むようになるが.. 赤と青の息詰まる雪合戦！ 相手の攻撃、回避経路を予測し、相手より先に雪合戦で勝ってみてください！
-  </div>
-</details>
 
-<details>
-  <summary>モード②()</summary>
-  <div markdown="1">
-  </div>
-</details>
-
-
-<details>
-  <summary>モード③(ゆきむいて、ホイ！)</summary>
-  <div markdown="1">
-  </div>
-</details>
-
-ゲームの流れ 
+    ゲームの流れ 
 --
 プレイヤー人数は2人(赤、青)で、雪玉を投げて誰が先に相手を倒すかがこのゲームの勝利条件です。 
 
@@ -54,3 +39,20 @@
 
 *エラーが生じた場合、以下のリンク先でお願い致します。<br>
 https://youtu.be/1XaAdYmfsRk
+  </div>
+</details>
+
+<details>
+  <summary>モード②()</summary>
+  <div markdown="1">
+  </div>
+</details>
+
+
+<details>
+  <summary>モード③(ゆきむいて、ホイ！)</summary>
+  <div markdown="1">
+  </div>
+</details>
+
+
