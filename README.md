@@ -2,7 +2,7 @@
 --
 
 <details>
-  <summary>ゆきむいて、ホイ！</summary>
+  <summary>ゆき(雪)むいて、ホイ！</summary>
   
   説明
   --
