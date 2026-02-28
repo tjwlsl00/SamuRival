@@ -46,7 +46,7 @@
 
   プレイ動画
   --
-  [![ゆきむいて、ホイ！](https://img.youtube.com/vi/MWMAJmbxElw/maxresdefault.jpg)](https://youtu.be/MWMAJmbxElw)
+  [![ゆきむいて、ホイ！](https://img.youtube.com/vi/MWMAJmbxElw/maxresdefault.jpg)](https://www.youtube.com/watch?v=MWMAJmbxElw)
   
   *画像をクリックするとリンクに繋がります。<br>
   *エラーが生じた場合: https://youtu.be/1XaAdYmfsRk <br>
