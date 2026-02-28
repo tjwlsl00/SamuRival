@@ -46,10 +46,10 @@
 
   プレイ動画
   --
-  [![ゆきむいて、ホイ！](https://img.youtube.com/vi/1XaAdYmfsRk/maxresdefault.jpg)](https://youtu.be/1XaAdYmfsRk)
+  [![ゆきむいて、ホイ！](https://img.youtube.com/vi/MWMAJmbxElw/maxresdefault.jpg)](https://youtu.be/MWMAJmbxElw)
   
   *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/1XaAdYmfsRk <br>
+  *エラーが生じた場合: https://youtu.be/MWMAJmbxElw <br>
   
 </details>
 
