@@ -54,7 +54,7 @@
 </details>
 
 <details>
-  <summary>モード②</summary>
+  <summary>トントンコマンドビルダー</summary>
 </details>
 
 
