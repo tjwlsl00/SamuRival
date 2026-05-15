@@ -1,23 +1,17 @@
 寒ライバル ／ 開発期間：25年12月17日～ 26年02月24日、26年03月24日～ 
 --
 
-<img width="1575" height="880" alt="Image" src="https://github.com/user-attachments/assets/868832b1-3734-48cb-94b7-3e87a011a827" />
-
 五つのミニゲームをテーマにした２人用対戦バトルゲーム！
 --
-
-<img width="1577" height="879" alt="Image" src="https://github.com/user-attachments/assets/9fb0a560-2b93-41ff-82af-a95a0e547e0a" />
+<img width="1575" height="880" alt="Image" src="https://github.com/user-attachments/assets/868832b1-3734-48cb-94b7-3e87a011a827" />
 
 マップは五つの中からランダムに登場!
 --
-
-
-<img width="1577" height="881" alt="Image" src="https://github.com/user-attachments/assets/477fd428-e804-46d0-a29c-73d8652df29b" />
+<img width="1577" height="879" alt="Image" src="https://github.com/user-attachments/assets/9fb0a560-2b93-41ff-82af-a95a0e547e0a" />
 
 先に３点を取ったプレイヤーが勝つ！
 --
-
-
+<img width="1577" height="881" alt="Image" src="https://github.com/user-attachments/assets/477fd428-e804-46d0-a29c-73d8652df29b" />
 
 <details>
   <summary>雪むいて、ホイ！</summary>
