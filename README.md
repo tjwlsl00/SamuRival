@@ -89,7 +89,7 @@
 
   プレイ動画
   --
-  [![ゆきむいて、ホイ！](https://img.youtube.com/vi/0UcEcujz0G8/maxresdefault.jpg)](https://youtu.be/0UcEcujz0G8)
+  [![トントンビルダー](https://img.youtube.com/vi/C-eSFBPPEOY/maxresdefault.jpg)](https://youtu.be/C-eSFBPPEOY)
 </a>
   
   *画像をクリックするとリンクに繋がります。<br>
