@@ -1,6 +1,6 @@
 寒ライバル ／ 開発期間：25年12月17日～ 26年02月24日、26年03月24日～ 
 --
-
+<img width="1575" height="880" alt="Image" src="https://github.com/user-attachments/assets/868832b1-3734-48cb-94b7-3e87a011a827" />
 五つのミニゲームの内、先に3点を取ったプレイヤーが勝ちになる2人用対戦ゲームです。
 
 <details>
