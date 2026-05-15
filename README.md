@@ -89,8 +89,7 @@
 
   プレイ動画
   --
-  <a href="https://youtu.be/C-eSFBPPEOY">
-  <img src="https://img.youtube.com/vi/C-eSFBPPEOY/maxresdefault.jpg" alt="토ントンビルダー" width="600">
+  [![ゆきむいて、ホイ！](https://img.youtube.com/vi/0UcEcujz0G8/maxresdefault.jpg)](https://youtu.be/0UcEcujz0G8)
 </a>
   
   *画像をクリックするとリンクに繋がります。<br>
