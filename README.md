@@ -86,4 +86,12 @@
   <summary>モード③</summary>
 </details>
 
+<details>
+  <summary>モード④</summary>
+</details>
+
+<details>
+  <summary>モード⑤</summary>
+</details>
+
 
