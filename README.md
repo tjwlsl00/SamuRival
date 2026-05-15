@@ -89,7 +89,7 @@
 
   プレイ動画
   --
-  
+   [![トントンビルダー](https://img.youtube.com/vi/C-eSFBPPEOY/maxresdefault.jpg)](https://youtu.be/C-eSFBPPEOY)
   
   *画像をクリックするとリンクに繋がります。<br>
   *エラーが生じた場合: <br>
