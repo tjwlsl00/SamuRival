@@ -3,6 +3,7 @@
 <img width="1575" height="880" alt="Image" src="https://github.com/user-attachments/assets/868832b1-3734-48cb-94b7-3e87a011a827" />
 五つのミニゲームの内、先に3点を取ったプレイヤーが勝ちになる2人用対戦ゲームです。
 
+
 <details>
   <summary>雪むいて、ホイ！</summary>
 
