@@ -11,8 +11,7 @@
 
 先に３点を取ったプレイヤーが勝つ！
 --
-<img width="1577" height="881" alt="Image" src="https://github.com/user-attachments/assets/477fd428-e804-46d0-a29c-73d8652df29b" />
-
+<img width="1576" height="881" alt="Image" src="https://github.com/user-attachments/assets/6ba346cc-ad25-4119-8ec6-899478d7cae5" />
 
 種目一覧
 --
