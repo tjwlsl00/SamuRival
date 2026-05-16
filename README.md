@@ -3,7 +3,7 @@
 
 五つのミニゲームをテーマにした２人用対戦バトルゲーム！
 --
-<img width="1575" height="880" alt="Image" src="https://github.com/user-attachments/assets/868832b1-3734-48cb-94b7-3e87a011a827" />
+<img width="1576" height="881" alt="Image" src="https://github.com/user-attachments/assets/e5831287-19fa-48d2-aa08-c0e0a8d947e2" />
 
 マップは五つの中からランダムに登場!
 --
