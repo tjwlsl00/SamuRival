@@ -69,7 +69,7 @@
 </details>
 
 <details>
-  <summary>トントン、コマンドビルダー(開発中)</summary>
+  <summary>トントン、コマンドビルダー</summary>
   
   🔨家の建設に必要な材料を集め、相手より先に家を建てていくゲームです
 
