@@ -64,7 +64,7 @@
   --
   [![ゆきむいて、ホイ！](https://img.youtube.com/vi/qK1aIi3o9_A/maxresdefault.jpg)](https://youtu.be/qK1aIi3o9_A)
   *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/xfARyc8LRTo <br>
+  *エラーが生じた場合: https://youtu.be/qK1aIi3o9_A <br>
   
 </details>
 
