@@ -98,7 +98,7 @@
 
 
 <details>
-  <summary>クルクルカーリング</summary>
+  <summary>クルクルカーリング(開発中)</summary>
 </details>
 
 <details>
