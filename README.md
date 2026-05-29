@@ -98,7 +98,7 @@
 
 
 <details>
-  <summary>モード③</summary>
+  <summary>クルクルカーリング</summary>
 </details>
 
 <details>
