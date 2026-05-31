@@ -98,7 +98,7 @@
 
 
 <details>
-  <summary>クルクルカーリング(開発中)</summary>
+  <summary>アーチェリング(開発中)</summary>
   <img width="1485" height="826" alt="Image" src="https://github.com/user-attachments/assets/59f7ee60-e7b3-4a78-ac03-cecf68a74019" />
 </details>
 
