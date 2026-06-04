@@ -99,7 +99,7 @@
 
 <details>
   <summary>アーチェリング(開発中)</summary>
-  <img width="1485" height="826" alt="Image" src="https://github.com/user-attachments/assets/59f7ee60-e7b3-4a78-ac03-cecf68a74019" />
+  <img width="1491" height="830" alt="Image" src="https://github.com/user-attachments/assets/1a922e00-01a9-449a-99d0-4a0de46b4abe" />
 </details>
 
 <details>
