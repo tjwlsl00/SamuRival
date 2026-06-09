@@ -84,7 +84,6 @@
 
 <details>
   <summary>アーチェリング(開発中)</summary>
-  <img width="1576" height="878" alt="Image" src="https://github.com/user-attachments/assets/9cc2a55f-6b0a-412d-8f11-07cdd2137486" />
 
 ## 🏆 勝利条件
 高いスコアを獲得したプレイヤーの勝ち！
