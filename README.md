@@ -101,6 +101,12 @@
 | :--- | :--- | :--- |
 | **決定** | `W` | `↑` |
 
+プレイ動画
+  --
+  [![アーチェリング](https://img.youtube.com/vi/skmwwI0Hk/maxresdefault.jpg)](https://youtu.be/skmwwI0Hk_A)
+  *画像をクリックするとリンクに繋がります。<br>
+  *エラーが生じた場合: https://youtu.be/skmwwI0Hk <br>
+
 </details>
 
 <details>
