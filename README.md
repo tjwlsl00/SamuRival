@@ -1,11 +1,11 @@
 寒ライバル ／ 開発期間：25年12月17日～ 26年02月24日(200時間)、26年03月24日～ 
 --
 
-五つのミニゲームをテーマにした２人用対戦バトルゲーム！
+五つのミニゲームをテーマにした２人用対戦ゲーム！
 --
 <img width="1576" height="881" alt="Image" src="https://github.com/user-attachments/assets/e5831287-19fa-48d2-aa08-c0e0a8d947e2" />
 
-マップは五つの中からランダムに登場!
+種目は五つの中からランダムに登場!
 --
 <img width="1577" height="879" alt="Image" src="https://github.com/user-attachments/assets/9fb0a560-2b93-41ff-82af-a95a0e547e0a" />
 
