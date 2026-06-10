@@ -83,7 +83,7 @@
 
 
 <details>
-  <summary>アーチェリング(開発中)</summary>
+  <summary>アーチェリング</summary>
 
 ## 🏆 勝利条件
 高いスコアを獲得したプレイヤーの勝ち！
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-  <summary>モード④</summary>
+  <summary>アイスーモ(開発中)</summary>
 </details>
 
 <details>
