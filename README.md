@@ -123,7 +123,7 @@
 
 | 機能 | 🔵 1P (青) | 🔴 2P (赤) |
 | :--- | :--- | :--- |
-| **移動** | `W`、`A`、`S`、`D`　 | `↑`、`←`、`↓`、`→` |
+| **移動** |`W`（上） / `S`（下） / `A`（左） / `D`（右） | `↑`（上） / `↓`（下）/　`←`（左） / `→`（右）  |
 | **ダッシュ** | `LCtrl` | `RCtrl` |
 
   <img width="853" height="479" alt="Image" src="https://github.com/user-attachments/assets/cfa23dde-c53b-401c-8a74-af6cb5cc6b57" />
