@@ -110,6 +110,7 @@
 
 <details>
   <summary>アイスーモ(開発中)</summary>
+  <img width="853" height="479" alt="Image" src="https://github.com/user-attachments/assets/cfa23dde-c53b-401c-8a74-af6cb5cc6b57" />
 </details>
 
 <details>
