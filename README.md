@@ -126,7 +126,7 @@
 | **移動** |`W`（上） / `S`（下） / `A`（左） / `D`（右） | `↑`（上） / `↓`（下）/　`←`（左） / `→`（右）  |
 | **ダッシュ** | `LCtrl` | `RCtrl` |
 
-  <img width="1491" height="830" alt="Image" src="https://github.com/user-attachments/assets/ffafb4cd-b05c-422b-85bb-f68fc2d7c004" />
+  <img width="1566" height="878" alt="Image" src="https://github.com/user-attachments/assets/6bbd124a-f5f9-47a2-ab14-3c27710a6d41" />
 </details>
 
 <details>
