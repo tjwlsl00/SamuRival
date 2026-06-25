@@ -128,9 +128,9 @@
 
   プレイ動画
   --
-  [![アイスーモ](https://img.youtube.com/vi/obzZkBpUECM/maxresdefault.jpg)](https://youtu.be/obzZkBpUECM)
+  [![アイスーモ](https://img.youtube.com/vi/9WDv5yFkhns/maxresdefault.jpg)](https://youtu.be/9WDv5yFkhns)
   *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/obzZkBpUECM <br>
+  *エラーが生じた場合: https://youtu.be/9WDv5yFkhns <br>
 
 </details>
 
