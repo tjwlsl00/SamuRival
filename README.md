@@ -126,7 +126,12 @@
 | **移動** |`W`（上） / `S`（下） / `A`（左） / `D`（右） | `↑`（上） / `↓`（下）/　`←`（左） / `→`（右）  |
 | **ダッシュ** | `LCtrl` | `RCtrl` |
 
-  <img width="1566" height="878" alt="Image" src="https://github.com/user-attachments/assets/6bbd124a-f5f9-47a2-ab14-3c27710a6d41" />
+  プレイ動画
+  --
+  [![アイスーモ](https://img.youtube.com/vi/obzZkBpUECM/maxresdefault.jpg)](https://youtu.be/obzZkBpUECM)
+  *画像をクリックするとリンクに繋がります。<br>
+  *エラーが生じた場合: https://youtu.be/obzZkBpUECM <br>
+
 </details>
 
 <details>
