@@ -59,7 +59,7 @@
 </details>
 
 <details>
-  <summary>トントン、コマンドビルダー</summary>
+  <summary>トントンビルダー</summary>
  ## 🏆 勝利条件
 相手より先に家を完成させたプレイヤーが勝ち！
 
