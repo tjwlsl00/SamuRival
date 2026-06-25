@@ -75,10 +75,10 @@
 
   プレイ動画
   --
-  [![トントンビルダー](https://img.youtube.com/vi/C-eSFBPPEOY/maxresdefault.jpg)](https://youtu.be/C-eSFBPPEOY)
+  [![トントンビルダー](https://img.youtube.com/vi/C0YvdkaMDS8/maxresdefault.jpg)](https://youtu.be/C0YvdkaMDS8)
 </a>
   *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/C-eSFBPPEOY<br>
+  *エラーが生じた場合: https://youtu.be/C0YvdkaMDS8<br>
 </details>
 
 
