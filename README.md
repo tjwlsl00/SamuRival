@@ -109,7 +109,7 @@
 </details>
 
 <details>
-  <summary>アイスーモ(開発中)</summary>
+  <summary>アイスーモ</summary>
   
 ## 🏆 勝利条件
   相手を場外に押し落とせ、ラウンドを取れ！
@@ -135,7 +135,7 @@
 </details>
 
 <details>
-  <summary>モード⑤</summary>
+  <summary>スノーエスケイプ(開発中)</summary>
 </details>
 
 
