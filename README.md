@@ -59,7 +59,7 @@
 </details>
 
 <details>
-  <summary>トントン、コマンドビルダー</summary>
+  <summary>トントンビルダー</summary>
  ## 🏆 勝利条件
 相手より先に家を完成させたプレイヤーが勝ち！
 
@@ -75,10 +75,10 @@
 
   プレイ動画
   --
-  [![トントンビルダー](https://img.youtube.com/vi/C-eSFBPPEOY/maxresdefault.jpg)](https://youtu.be/C-eSFBPPEOY)
+  [![トントンビルダー](https://img.youtube.com/vi/C0YvdkaMDS8/maxresdefault.jpg)](https://youtu.be/C0YvdkaMDS8)
 </a>
   *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/C-eSFBPPEOY<br>
+  *エラーが生じた場合: https://youtu.be/C0YvdkaMDS8<br>
 </details>
 
 
@@ -91,7 +91,7 @@
 ## 🔄 ゲームの流れ
 1. **順番決め:** 赤から始め、一回ずつストンを投げます。よりターゲットに近づいたプレイヤーからラウンドが始まる。
 2. **ストンを投げる:** ターゲットに向かって、ストンを投げる。(ラウンドはプレイヤーごとに10回)
-3. **スコア計算:**　10ラウンドが終わった後、最後に残ったストンの位置に基づきスコアを計算する。
+3. **スコア計算:**　10ラウンドが終わった後、スコアの高いプレイヤー勝ち。引き分けの場合また最初から。
 
 ## 🎮 操作方法
 最初は方向、そして、強さを決定。
@@ -102,22 +102,22 @@
 
 プレイ動画
   --
-  [![アーチェリング](https://img.youtube.com/vi/t7skmwwI0Hk/maxresdefault.jpg)](https://youtu.be/t7skmwwI0Hk_A)
+  [![アーチェリング](https://img.youtube.com/vi/ENLgFZhyEpU/maxresdefault.jpg)](https://youtu.be/ENLgFZhyEpU)
   *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/t7skmwwI0Hk <br>
+  *エラーが生じた場合: https://youtu.be/ENLgFZhyEpU <br>
 
 </details>
 
 <details>
-  <summary>アイスーモ(開発中)</summary>
+  <summary>アイスーモ</summary>
   
 ## 🏆 勝利条件
   相手を場外に押し落とせ、ラウンドを取れ！
 
 ## 🔄 ゲームの流れ
 1. **BO3勝負:** 3ラウンドで先に２ラウンドを勝つこと。
-2. **氷の縮まり:** 30秒ごとにマップが縮まる。最大2段階まで。
-3. **ダッシュ:**　ダッシュゲージを溜め込み、相手を押し落とせ。
+2. **氷が解ける:** 20秒ごとに氷が解ける。
+3. **ダッシュ:**　ダッシュボタンを長押し、ゲージを溜め込める。
 
 ## 🎮 操作方法
 
@@ -126,11 +126,16 @@
 | **移動** |`W`（上） / `S`（下） / `A`（左） / `D`（右） | `↑`（上） / `↓`（下）/　`←`（左） / `→`（右）  |
 | **ダッシュ** | `LCtrl` | `RCtrl` |
 
-  <img width="1491" height="830" alt="Image" src="https://github.com/user-attachments/assets/ffafb4cd-b05c-422b-85bb-f68fc2d7c004" />
+  プレイ動画
+  --
+  [![アイスーモ](https://img.youtube.com/vi/9WDv5yFkhns/maxresdefault.jpg)](https://youtu.be/9WDv5yFkhns)
+  *画像をクリックするとリンクに繋がります。<br>
+  *エラーが生じた場合: https://youtu.be/9WDv5yFkhns <br>
+
 </details>
 
 <details>
-  <summary>モード⑤</summary>
+  <summary>スノーエスケイプ(開発中)</summary>
 </details>
 
 
