@@ -106,9 +106,9 @@
 
 プレイ動画
   --
-  [![アーチェリング](https://img.youtube.com/vi/ENLgFZhyEpU/maxresdefault.jpg)](https://youtu.be/ENLgFZhyEpU)
+  [![アーチェリング](https://img.youtube.com/vi/qxGk8lYt6UY/maxresdefault.jpg)](https://youtu.be/qxGk8lYt6UY)
   *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/ENLgFZhyEpU <br>
+  *エラーが生じた場合: https://youtu.be/qxGk8lYt6UY <br>
 
 </details>
 
