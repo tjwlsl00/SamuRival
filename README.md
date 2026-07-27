@@ -109,7 +109,7 @@
 </details>
 
 <details>
-  <summary>アイスーモ</summary>
+  <summary>アイスモー</summary>
   
 ## 🏆 勝利条件
   相手を場外に押し落とせ、ラウンドを取れ！
@@ -128,7 +128,7 @@
 
   プレイ動画
   --
-  [![アイスーモ](https://img.youtube.com/vi/9WDv5yFkhns/maxresdefault.jpg)](https://youtu.be/9WDv5yFkhns)
+  [![アイスモー](https://img.youtube.com/vi/9WDv5yFkhns/maxresdefault.jpg)](https://youtu.be/9WDv5yFkhns)
   *画像をクリックするとリンクに繋がります。<br>
   *エラーが生じた場合: https://youtu.be/9WDv5yFkhns <br>
 
