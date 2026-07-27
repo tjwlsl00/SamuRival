@@ -3,7 +3,7 @@
 
 五つのミニゲームをテーマにした２人用対戦ゲーム！
 --
-<img width="1576" height="881" alt="Image" src="https://github.com/user-attachments/assets/e5831287-19fa-48d2-aa08-c0e0a8d947e2" />
+<img width="1573" height="877" alt="Image" src="https://github.com/user-attachments/assets/2d334975-b947-4bf4-bc0e-f0cc019ac1be" />
 
 種目は五つの中からランダムに登場!
 --
