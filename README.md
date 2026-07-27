@@ -5,13 +5,12 @@
 --
 <img width="1573" height="877" alt="Image" src="https://github.com/user-attachments/assets/2d334975-b947-4bf4-bc0e-f0cc019ac1be" />
 
-「テーマ」
+「テーマ、勝利条件」
 --
 <img width="1572" height="877" alt="Image" src="https://github.com/user-attachments/assets/e2819e7b-d2bb-49a2-9a8d-423eec8fd652" />
 
-先に３点を取ったプレイヤーが勝つ！
+「操作方法」
 --
-<img width="1576" height="881" alt="Image" src="https://github.com/user-attachments/assets/6ba346cc-ad25-4119-8ec6-899478d7cae5" />
 
 種目一覧
 --
