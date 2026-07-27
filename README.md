@@ -11,6 +11,7 @@
 
 「操作方法」
 --
+<img width="1573" height="881" alt="Image" src="https://github.com/user-attachments/assets/7debcb51-2b8f-4960-bcbf-7ad4aae70fd9" />
 
 種目一覧
 --
