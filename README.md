@@ -3,15 +3,15 @@
 
 「メイン画面」
 --
-<img width="1573" height="877" alt="Image" src="https://github.com/user-attachments/assets/2d334975-b947-4bf4-bc0e-f0cc019ac1be" />
+<img width="1567" height="874" alt="Image" src="https://github.com/user-attachments/assets/4bb775bd-adf5-4e07-a04d-4207f2f65ee7" />
 
 「テーマ、勝利条件」
 --
-<img width="1572" height="877" alt="Image" src="https://github.com/user-attachments/assets/e2819e7b-d2bb-49a2-9a8d-423eec8fd652" />
+<img width="1572" height="877" alt="Image" src="https://github.com/user-attachments/assets/41d67841-4ccd-48e6-b03f-02203bf1e2c9" />
 
 「操作方法」
 --
-<img width="1573" height="881" alt="Image" src="https://github.com/user-attachments/assets/7debcb51-2b8f-4960-bcbf-7ad4aae70fd9" />
+<img width="1568" height="874" alt="Image" src="https://github.com/user-attachments/assets/921deadf-a5d7-4c58-8c03-4588dc13abd1" />
 
 種目一覧
 --
