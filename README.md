@@ -137,7 +137,7 @@
 
 <details>
   <summary>スノーエスケイプ(開発中)</summary>
-  <img width="1574" height="881" alt="Image" src="https://github.com/user-attachments/assets/f4a1b088-ec73-476b-8de6-4d10f9bd2ca8" />
+  <img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/92261135-81cc-4ba5-9b16-7a4b645bec3f" />
 </details>
 
 
