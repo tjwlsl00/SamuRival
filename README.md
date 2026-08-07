@@ -11,7 +11,7 @@
 
 「操作方法」
 --
-<img width="1568" height="874" alt="Image" src="https://github.com/user-attachments/assets/921deadf-a5d7-4c58-8c03-4588dc13abd1" />
+<img width="1569" height="876" alt="Image" src="https://github.com/user-attachments/assets/762c490c-d506-4277-8296-412f44eebc30" />
 
 種目一覧
 --
