@@ -137,8 +137,6 @@
 
 <details>
   <summary>スノーエスケイプ(開発中)</summary>
-  <img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/92261135-81cc-4ba5-9b16-7a4b645bec3f" />
-
 
   ## 🏆 勝利条件
   後ろから追いかけるくる雪玉から逃げ切れ、先にゴールに着くこと
@@ -156,6 +154,7 @@
 
   プレイ動画
   --
+  <img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/92261135-81cc-4ba5-9b16-7a4b645bec3f" />
   *画像をクリックするとリンクに繋がります。<br>
   *エラーが生じた場合:  <br>
 </details>
