@@ -1,17 +1,17 @@
 寒ライバル ／ 開発期間：25年12月17日～ 26年02月24日(200時間)、26年03月24日～ 
 --
 
-五つのミニゲームをテーマにした２人用対戦ゲーム！
+「メイン画面」
 --
-<img width="1576" height="881" alt="Image" src="https://github.com/user-attachments/assets/e5831287-19fa-48d2-aa08-c0e0a8d947e2" />
+<img width="1567" height="874" alt="Image" src="https://github.com/user-attachments/assets/4bb775bd-adf5-4e07-a04d-4207f2f65ee7" />
 
-種目は五つの中からランダムに登場!
+「テーマ、勝利条件」
 --
-<img width="1577" height="879" alt="Image" src="https://github.com/user-attachments/assets/9fb0a560-2b93-41ff-82af-a95a0e547e0a" />
+<img width="1572" height="877" alt="Image" src="https://github.com/user-attachments/assets/41d67841-4ccd-48e6-b03f-02203bf1e2c9" />
 
-先に３点を取ったプレイヤーが勝つ！
+「操作方法」
 --
-<img width="1576" height="881" alt="Image" src="https://github.com/user-attachments/assets/6ba346cc-ad25-4119-8ec6-899478d7cae5" />
+<img width="1569" height="876" alt="Image" src="https://github.com/user-attachments/assets/762c490c-d506-4277-8296-412f44eebc30" />
 
 種目一覧
 --
@@ -60,7 +60,8 @@
 
 <details>
   <summary>トントンビルダー</summary>
- ## 🏆 勝利条件
+  
+## 🏆 勝利条件
 相手より先に家を完成させたプレイヤーが勝ち！
 
 ## 🔄 ゲームの流れ
@@ -102,14 +103,14 @@
 
 プレイ動画
   --
-  [![アーチェリング](https://img.youtube.com/vi/ENLgFZhyEpU/maxresdefault.jpg)](https://youtu.be/ENLgFZhyEpU)
+  [![アーチェリング](https://img.youtube.com/vi/qxGk8lYt6UY/maxresdefault.jpg)](https://youtu.be/qxGk8lYt6UY)
   *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/ENLgFZhyEpU <br>
+  *エラーが生じた場合: https://youtu.be/qxGk8lYt6UY <br>
 
 </details>
 
 <details>
-  <summary>アイスーモ</summary>
+  <summary>アイスモー</summary>
   
 ## 🏆 勝利条件
   相手を場外に押し落とせ、ラウンドを取れ！
@@ -128,7 +129,7 @@
 
   プレイ動画
   --
-  [![アイスーモ](https://img.youtube.com/vi/9WDv5yFkhns/maxresdefault.jpg)](https://youtu.be/9WDv5yFkhns)
+  [![アイスモー](https://img.youtube.com/vi/9WDv5yFkhns/maxresdefault.jpg)](https://youtu.be/9WDv5yFkhns)
   *画像をクリックするとリンクに繋がります。<br>
   *エラーが生じた場合: https://youtu.be/9WDv5yFkhns <br>
 
@@ -136,6 +137,7 @@
 
 <details>
   <summary>スノーエスケイプ(開発中)</summary>
+  <img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/92261135-81cc-4ba5-9b16-7a4b645bec3f" />
 </details>
 
 
