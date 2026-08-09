@@ -136,7 +136,7 @@
 </details>
 
 <details>
-  <summary>スノーエスケイプ(開発中)</summary>
+  <summary>スノーエスケイプ</summary>
 
   ## 🏆 勝利条件
   後ろから追いかけるくる雪玉から逃げ切れ、先にゴールに着くこと
