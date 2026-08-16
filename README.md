@@ -74,12 +74,9 @@
 | :--- | :--- | :--- |
 | **方向** | `W`（上） / `S`（下） / `A`（左） / `D`（右） | `↑`（上） / `↓`（下）/　`←`（左） / `→`（右） |
 
-  プレイ動画
+  ゲーム画面
   --
-  [![トントンビルダー](https://img.youtube.com/vi/C0YvdkaMDS8/maxresdefault.jpg)](https://youtu.be/C0YvdkaMDS8)
-</a>
-  *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/C0YvdkaMDS8<br>
+ 
 </details>
 
 
@@ -101,12 +98,8 @@
 | :--- | :--- | :--- |
 | **決定** | `W` | `↑` |
 
-プレイ動画
+ゲーム画面
   --
-  [![アーチェリング](https://img.youtube.com/vi/qxGk8lYt6UY/maxresdefault.jpg)](https://youtu.be/qxGk8lYt6UY)
-  *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/qxGk8lYt6UY <br>
-
 </details>
 
 <details>
@@ -127,11 +120,8 @@
 | **移動** |`W`（上） / `S`（下） / `A`（左） / `D`（右） | `↑`（上） / `↓`（下）/　`←`（左） / `→`（右）  |
 | **ダッシュ** | `LCtrl` | `RCtrl` |
 
-  プレイ動画
+  ゲーム画面
   --
-  [![アイスモー](https://img.youtube.com/vi/9WDv5yFkhns/maxresdefault.jpg)](https://youtu.be/9WDv5yFkhns)
-  *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/9WDv5yFkhns <br>
 
 </details>
 
@@ -152,11 +142,8 @@
 | :--- | :--- | :--- |
 | **移動** | `A`（左） / `S`（しゃがむ）/ `D`（右） | `↑`（上） / `↓`（しゃがむ）/ `→`（右）  |
 
-  プレイ動画
+  ゲーム画面
   --
-  <img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/92261135-81cc-4ba5-9b16-7a4b645bec3f" />
-  *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合:  <br>
 </details>
 
 
