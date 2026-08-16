@@ -1,19 +1,23 @@
 寒ライバル ／ 開発期間：25年12月17日～ 26年02月24日(200時間)、26年03月24日～ 
 --
 
-「メイン画面」
+メイン画面
 --
 <img width="1567" height="874" alt="Image" src="https://github.com/user-attachments/assets/4bb775bd-adf5-4e07-a04d-4207f2f65ee7" />
 
-「テーマ、勝利条件」
+テーマ、勝利条件
 --
 <img width="1572" height="877" alt="Image" src="https://github.com/user-attachments/assets/41d67841-4ccd-48e6-b03f-02203bf1e2c9" />
 
-「操作方法」
+登場種目
+--
+
+
+操作方法
 --
 <img width="1569" height="876" alt="Image" src="https://github.com/user-attachments/assets/762c490c-d506-4277-8296-412f44eebc30" />
 
-種目一覧（ルール説明）
+種目別ルール説明
 --
 <details>
   <summary>雪むいて、ホイ！</summary>
