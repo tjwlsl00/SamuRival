@@ -50,12 +50,8 @@
 | **4** | **攻守交代(防御)** | 自分に不利な状況で強制的に**攻撃権を奪取**します。|
 
 
-  プレイ動画
+  ゲーム画面
   --
-  [![ゆきむいて、ホイ！](https://img.youtube.com/vi/qK1aIi3o9_A/maxresdefault.jpg)](https://youtu.be/qK1aIi3o9_A)
-  *画像をクリックするとリンクに繋がります。<br>
-  *エラーが生じた場合: https://youtu.be/qK1aIi3o9_A <br>
-  
 </details>
 
 <details>
