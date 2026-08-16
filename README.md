@@ -17,7 +17,7 @@
 --
 <img width="1569" height="876" alt="Image" src="https://github.com/user-attachments/assets/762c490c-d506-4277-8296-412f44eebc30" />
 
-種目別ルール説明
+ルール説明
 --
 <details>
   <summary>雪むいて、ホイ！</summary>
