@@ -18,13 +18,7 @@
 <details>
   <summary>雪むいて、ホイ！</summary>
 
-ゲーム画面
---
-
-ルール
---
 <img width="1574" height="881" alt="Image" src="https://github.com/user-attachments/assets/f373807b-aff0-4e33-8093-a3b774eae645" />
-
 
 ## 操作方法
 | 機能 | 🔵 1P (青) | 🔴 2P (赤) |
@@ -40,14 +34,8 @@
 <details>
   <summary>トントンビルダー</summary>
 
-ゲーム画面
---
-
-ルール
---
 <img width="1570" height="880" alt="Image" src="https://github.com/user-attachments/assets/da486760-9eb7-4df9-a9f7-eaed39a78619" />
   
-
 ##  操作方法
 | 機能 | 🔵 1P (青) | 🔴 2P (赤) |
 | :--- | :--- | :--- |
@@ -58,11 +46,6 @@
 <details>
   <summary>アーチェリング</summary>
 
-ゲーム画面
---
-
-ルール
---
 <img width="1573" height="878" alt="Image" src="https://github.com/user-attachments/assets/09ee26a1-935d-43aa-9b11-e69ede4d2b55" />
 
 ##  操作方法
@@ -78,11 +61,6 @@
 <details>
   <summary>アイスモー</summary>
 
-ゲーム画面
---
-
-ルール
---
 <img width="1572" height="878" alt="Image" src="https://github.com/user-attachments/assets/f1a1dd53-f7ad-439a-997d-3a40259ea140" />
   
 ##  操作方法
@@ -98,11 +76,6 @@
 <details>
   <summary>スノーエスケイプ</summary>
 
-ゲーム画面
---
-
-ルール
---
 <img width="1571" height="877" alt="Image" src="https://github.com/user-attachments/assets/84662e47-a101-4073-9f51-0f49f17fec38" />
 
   
