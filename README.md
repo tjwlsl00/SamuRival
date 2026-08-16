@@ -11,7 +11,7 @@
 
 登場種目
 --
-
+<img width="1573" height="878" alt="Image" src="https://github.com/user-attachments/assets/6a4f17aa-7969-4bde-a9cf-9d9f39dfc21a" />
 
 操作方法
 --
