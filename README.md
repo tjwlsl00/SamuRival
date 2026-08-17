@@ -95,9 +95,6 @@
 --
 [![寒ライバル](https://img.youtube.com/vi/PSc9MWeTJiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=PSc9MWeTJiM)
 
-*画像をクリックするとリンクに繋がります。<br>
-
-*エラーが生じた場合、以下のリンク先でお願い致します。<br>
 https://youtu.be/PSc9MWeTJiM
 
 追加予定
