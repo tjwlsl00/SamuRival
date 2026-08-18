@@ -96,6 +96,7 @@
 [![寒ライバル](https://img.youtube.com/vi/PSc9MWeTJiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=PSc9MWeTJiM)
 https://youtu.be/PSc9MWeTJiM
 <br>
+<br>
 画像およびリンクをクリックすることで、動画に接続できます。
 
 ビルドデータ▣Unity6000.3.10f1
