@@ -99,6 +99,10 @@ https://youtu.be/PSc9MWeTJiM
 
 ビルドデータ
 --
+<div style="display: flex; align-items: center; gap: 8px;">
+  <a href="https://drive.google.com/drive/folders/1gOVb3W2OCaUKxSGnOOpQa_ubQmBt2ctB?usp=drive_link" target="_blank" title="구글 드라이브 폴더로 이동" style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="display: block;">
+  </a>
 
 追加予定
 --
