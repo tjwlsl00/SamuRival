@@ -97,6 +97,9 @@
 
 https://youtu.be/PSc9MWeTJiM
 
+ビルドデータ
+--
+
 追加予定
 --
 ①ゲーム背景、UIおよびバランス調整<br>
