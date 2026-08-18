@@ -97,7 +97,7 @@
 
 https://youtu.be/PSc9MWeTJiM
 
-ビルドデータ![Unity](https://shields.io)
+ビルドデータ▣Unity6000.3.10f1
 --
 <div style="display: flex; align-items: center; gap: 8px;">
   <a href="https://drive.google.com/drive/folders/1gOVb3W2OCaUKxSGnOOpQa_ubQmBt2ctB?usp=drive_link" target="_blank" title="구글 드라이브 폴더로 이동" style="display: flex; align-items: center;">
