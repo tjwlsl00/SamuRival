@@ -55,7 +55,7 @@ public class Archering_ScoreManager : MonoBehaviour
         // 빨강 스톤 점수 계산 
         GameObject[] onStageRedStones = GameObject.FindGameObjectsWithTag("redStone");
 
-        if (onStageRedStones != null && onStageRedStones.Length >= 10)
+        if (onStageRedStones != null && onStageRedStones.Length >= 1)
         {
             foreach (GameObject obj in onStageRedStones)
             {
@@ -68,7 +68,7 @@ public class Archering_ScoreManager : MonoBehaviour
         // 파랑 스톤 점수 게산
         GameObject[] onStageBlueStones = GameObject.FindGameObjectsWithTag("blueStone");
 
-        if (onStageBlueStones != null && onStageBlueStones.Length >= 10)
+        if (onStageBlueStones != null && onStageBlueStones.Length >= 1)
         {
             foreach (GameObject obj in onStageBlueStones)
             {
