@@ -5,19 +5,19 @@
 
 メイン画面
 --
-<img width="1567" height="874" alt="Image" src="https://github.com/user-attachments/assets/4bb775bd-adf5-4e07-a04d-4207f2f65ee7" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1ede64ad-60a2-4b23-99dd-c416fe4898d0" />
 
 テーマ、勝利条件
 --
-<img width="1572" height="877" alt="Image" src="https://github.com/user-attachments/assets/41d67841-4ccd-48e6-b03f-02203bf1e2c9" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f40538c7-b47a-4fce-bbc9-18a4e9ace7a4" />
 
 登場種目
 --
-<img width="1573" height="878" alt="Image" src="https://github.com/user-attachments/assets/6a4f17aa-7969-4bde-a9cf-9d9f39dfc21a" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bd5d4a61-f84b-4d1d-b7b2-196d0d8e0101" />
 
 操作方法
 --
-<img width="1569" height="876" alt="Image" src="https://github.com/user-attachments/assets/762c490c-d506-4277-8296-412f44eebc30" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1e8a8731-a933-4253-87f3-b3e5c32b1b17" />
 
 ルール説明
 --
