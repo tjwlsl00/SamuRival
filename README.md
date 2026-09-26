@@ -17,7 +17,7 @@
 
 操作方法
 --
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1e8a8731-a933-4253-87f3-b3e5c32b1b17" />
+<img width="1573" height="880" alt="Image" src="https://github.com/user-attachments/assets/1db04ddc-c4f1-4078-b88b-de2bba487906" />
 
 ルール説明
 --
