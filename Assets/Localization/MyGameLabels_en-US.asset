@@ -1,0 +1,582 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyGameLabels_en-US
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 07221708808c70c4b99da2de312f129d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 870774341632
+    m_Localized: 'Victory Condition
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870916947968
+    m_Localized: 'Game Theme
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142272
+    m_Localized: ESC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142273
+    m_Localized: IceSumou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142276
+    m_Localized: PRESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142277
+    m_Localized: "READY\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142278
+    m_Localized: 'Archering
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142275
+    m_Localized: 'How To Control
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142274
+    m_Localized: 'A two-player party game featuring five mini-games
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142279
+    m_Localized: 'Of the five, win the first three games
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142280
+    m_Localized: 'SnowEscape
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142281
+    m_Localized: 'TonTonBuilder
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870925336576
+    m_Localized: 'YukiHoi
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286615833542656
+    m_Localized: END
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286615837736960
+    m_Localized: 'System Monitor
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142282
+    m_Localized: Featured Events
+    m_Metadata:
+      m_Items: []
+  - m_Id: 870921142283
+    m_Localized: 'Game Description
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286615837736961
+    m_Localized: 'Scores being tallied...
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286615837736962
+    m_Localized: TEAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286622376656896
+    m_Localized: 'Escape before your opponent!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286629989318656
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286629989318658
+    m_Localized: 'Until the release
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286629989318657
+    m_Localized: Game over!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286629989318659
+    m_Localized: Building Completeness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286629989318660
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286629989318661
+    m_Localized: Game start!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286635605491712
+    m_Localized: New Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286635605491713
+    m_Localized: 'Until the release
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683076624385
+    m_Localized: Blue Win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818688
+    m_Localized: 'Red First
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683076624384
+    m_Localized: 'Change Camera
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286629989318662
+    m_Localized: 'Menu
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818690
+    m_Localized: ':'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818689
+    m_Localized: Decider match
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818691
+    m_Localized: The one closest to the target wins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818692
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818693
+    m_Localized: 'Select
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818694
+    m_Localized: Order determination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818695
+    m_Localized: Score Area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818697
+    m_Localized: 'High
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085012992
+    m_Localized: Blue Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085012993
+    m_Localized: Red Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683080818696
+    m_Localized: 'Win
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085012994
+    m_Localized: Draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085012995
+    m_Localized: 'Lose
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085012996
+    m_Localized: 'Blue First
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085012997
+    m_Localized: 'Red Win
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085012998
+    m_Localized: The person closest to the target gets the next turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085012999
+    m_Localized: START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286683085013000
+    m_Localized: 'Final Score
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286685425434624
+    m_Localized: Watch your step
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286685425434625
+    m_Localized: Drop the opponent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286685425434626
+    m_Localized: 'Hold
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286685425434627
+    m_Localized: Until the ice melts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286688596328448
+    m_Localized: 'Left
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286688596328449
+    m_Localized: Bend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286688596328451
+    m_Localized: GOAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286688596328452
+    m_Localized: 'Right
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286688596328450
+    m_Localized: To the goal line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286688596328453
+    m_Localized: 'Fast
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286691351986176
+    m_Localized: 1COMBO!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286691351986177
+    m_Localized: 2COMBO!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286691351986179
+    m_Localized: 4COMBO!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286691351986180
+    m_Localized: 3COMBO!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286691351986178
+    m_Localized: Effect activated!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286691351986182
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890944
+    m_Localized: One more
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286691351986181
+    m_Localized: 'Game Start
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890945
+    m_Localized: 'Inspector
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890946
+    m_Localized: Attack Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890947
+    m_Localized: Bounce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890948
+    m_Localized: Hide item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890949
+    m_Localized: 'Health
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890950
+    m_Localized: 'Switch
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890951
+    m_Localized: To the point of an attacking chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890952
+    m_Localized: /
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890953
+    m_Localized: "Defense \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890954
+    m_Localized: "Attack \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890955
+    m_Localized: 'Turn Change
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890956
+    m_Localized: Double damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890957
+    m_Localized: Show items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890958
+    m_Localized: If you miss it, it piles up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286698343890959
+    m_Localized: Double damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700873056256
+    m_Localized: 'Lose
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700873056257
+    m_Localized: Build using command input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700873056258
+    m_Localized: Run while avoiding obstacles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700873056259
+    m_Localized: Attack and defend repeatedly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700873056260
+    m_Localized: Finish the house and you win!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700873056261
+    m_Localized: X7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700873056262
+    m_Localized: 'Victory
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700873056263
+    m_Localized: Item available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250560
+    m_Localized: Decide the first move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250561
+    m_Localized: Win the second round to win!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250562
+    m_Localized: Higher score means victory!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250563
+    m_Localized: Combinations build up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250564
+    m_Localized: Assign the turn order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250565
+    m_Localized: 'Rule '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250566
+    m_Localized: Aim for a comeback with acceleration!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250567
+    m_Localized: 5-Combo Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250568
+    m_Localized: Take the opponent out of the game!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290887543422979
+    m_Localized: 'Random
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290887543422980
+    m_Localized: individual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 294501901008896
+    m_Localized: Red Vanguard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 294501972312064
+    m_Localized: Blue Vanguard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290887543422978
+    m_Localized: Select mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290887543422977
+    m_Localized: "\u25C0 \u25B6 Move"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290887543422976
+    m_Localized: cooperation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290887493091328
+    m_Localized: "ENTER\u3000Select\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286707642662912
+    m_Localized: Score Status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286705688117248
+    m_Localized: Select an item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700881444865
+    m_Localized: The Ice Melts Gradually
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700881444864
+    m_Localized: Win when you reach the goal!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250573
+    m_Localized: Sevenths of an opportunity!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250572
+    m_Localized: Once
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250571
+    m_Localized: Stump gauge increases when hitting a tree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250570
+    m_Localized: Can freeze the opponent for 3 seconds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286700877250569
+    m_Localized: Dash available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 337851664433152
+    m_Localized: Speed up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340268225265666
+    m_Localized: "\u65E5\u672C\u8A9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340268225265665
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340268225265664
+    m_Localized: "\uD55C\uAD6D\uC5B4"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
