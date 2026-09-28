@@ -108,6 +108,9 @@ https://youtu.be/PSc9MWeTJiM
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="display: block;">
   </a>
 
+＊ソースコードは　Asset＞Scriptsから閲覧することが可能です。
+--
+
 追加予定
 --
 ①ゲーム背景、UIおよびバランス調整（進行中）
