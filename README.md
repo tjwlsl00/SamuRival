@@ -5,7 +5,7 @@
 
 メイン画面
 --
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1ede64ad-60a2-4b23-99dd-c416fe4898d0" />
+<img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/d457344c-ca67-4435-aabb-aa4a29f082d4" />
 
 テーマ、勝利条件
 --
