@@ -13,7 +13,7 @@
 
 登場種目
 --
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bd5d4a61-f84b-4d1d-b7b2-196d0d8e0101" />
+<img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/463cb2fd-4005-4e26-9dd3-6ea7245c385d" />
 
 操作方法
 --
