@@ -5,7 +5,7 @@
 
 メイン画面
 --
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1ede64ad-60a2-4b23-99dd-c416fe4898d0" />
+<img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/d457344c-ca67-4435-aabb-aa4a29f082d4" />
 
 テーマ、勝利条件
 --
@@ -13,7 +13,7 @@
 
 登場種目
 --
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bd5d4a61-f84b-4d1d-b7b2-196d0d8e0101" />
+<img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/463cb2fd-4005-4e26-9dd3-6ea7245c385d" />
 
 操作方法
 --
