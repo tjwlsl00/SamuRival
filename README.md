@@ -96,7 +96,7 @@
 ゲームプレイ動画
 --
 [![寒ライバル](https://img.youtube.com/vi/so1GkODCbRw/maxresdefault.jpg)](https://www.youtube.com/watch?v=so1GkODCbRw)
-https://youtu.be/PSc9MWeTJiM
+https://youtu.be/so1GkODCbRw
 <br>
 <br>
 画像およびリンクをクリックすることで、動画に接続できます。
