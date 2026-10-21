@@ -5,7 +5,7 @@
 
 メイン画面
 --
-<img width="1576" height="879" alt="Image" src="https://github.com/user-attachments/assets/d457344c-ca67-4435-aabb-aa4a29f082d4" />
+<img width="1917" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fc85f02a-917b-429c-b6d9-320a78c9845b" />
 
 テーマ、勝利条件
 --
@@ -95,8 +95,8 @@
 
 ゲームプレイ動画
 --
-[![寒ライバル](https://img.youtube.com/vi/PSc9MWeTJiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=PSc9MWeTJiM)
-https://youtu.be/PSc9MWeTJiM
+[<img width="1917" height="1077" alt="유튜브 썸네일" src="https://github.com/user-attachments/assets/fc85f02a-917b-429c-b6d9-320a78c9845b" />](https://www.youtube.com/watch?v=so1GkODCbRw)
+https://youtu.be/so1GkODCbRw
 <br>
 <br>
 画像およびリンクをクリックすることで、動画に接続できます。
