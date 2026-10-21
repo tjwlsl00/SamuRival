@@ -95,9 +95,7 @@
 
 ゲームプレイ動画
 --
-<a href="https://www.youtube.com/watch?v=so1GkODCbRw">
-  <img src="https://img.youtube.com/vi/so1GkODCbRw/maxresdefault.jpg" width="100%">
-</a>
+[![寒ライバル](<img width="1917" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fc85f02a-917b-429c-b6d9-320a78c9845b" />](https://www.youtube.com/watch?v=so1GkODCbRw)
 https://youtu.be/so1GkODCbRw
 <br>
 <br>
