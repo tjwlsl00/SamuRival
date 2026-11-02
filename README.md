@@ -1,5 +1,5 @@
 タイトル：寒ライバル <br>
-開発期間：25年12月17日～ 26年02月24日(200時間)、26年03月24日～ <br>
+開発期間：25年12月17日～ 26年02月24日(200時間)、26年03月24日～ 26年09月30日(544時間)<br>
 制作人数：１人
 --
 
@@ -107,8 +107,3 @@ https://youtu.be/so1GkODCbRw
   <a href="https://drive.google.com/drive/folders/1gOVb3W2OCaUKxSGnOOpQa_ubQmBt2ctB?usp=drive_link" target="_blank" title="구글 드라이브 폴더로 이동" style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="display: block;">
   </a>
-
-追加予定
---
-協力モード/ネットワーク通信マルチプレイ
-
